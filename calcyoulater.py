@@ -1,9 +1,6 @@
 from tkinter import *
 from tkinter import ttk
 
-
-from sqlalchemy import column
-
 class Calculator:
     def __init__(self):
         self.root = Tk()
