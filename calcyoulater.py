@@ -1,7 +1,6 @@
-from cgitb import text
 from tkinter import *
 from tkinter import ttk
-from turtle import width
+
 
 from sqlalchemy import column
 
